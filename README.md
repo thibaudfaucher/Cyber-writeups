@@ -2,4 +2,4 @@
 Documenting my progress in cybersecutiry: concepts learned, methods and tools.
 
 ## TryHackMe notes
-* [Intro to Cyber Security](notes/thm-intro-to-cyber-security.md)
+* [Intro to Cyber Security](thm-intro-to-cyber-security.md)
